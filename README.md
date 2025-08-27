@@ -1,0 +1,2 @@
+# hilariousMagnet
+magnetfile tool
